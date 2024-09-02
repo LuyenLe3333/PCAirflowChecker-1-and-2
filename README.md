@@ -1,6 +1,6 @@
 # PCAirflowChecker1 and PCAirflowChecker2
-This Java project calculates the amount of positive and negative pressure in PC fan configurations.
-Positive pressure: More air is being pushed into the case than is being exhausted. This can help reduce dust but may lead to heat buildup. 
+This Java project calculates the amount of positive and negative pressure in PC fan configurations. \n
+Positive pressure: More air is being pushed into the case than is being exhausted. This can help reduce dust but may lead to heat buildup. \n
 Negative pressure: More air is being expelled out of the case than is being intaked. This can efficently expel hot air but may lead to dust.
 
 ## PCAirflowChecker1 Feature
